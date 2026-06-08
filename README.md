@@ -13,6 +13,7 @@
 - 🤖 Using AI tools like **Cursor AI, GitHub Copilot & ChatGPT**
 - 🌱 Currently learning **System Design & Advanced Backend Concepts**
 - 📫 Reach me at **raushanrajsingh776@gmail.com**
+- 🔭 Portfolio: 🌐 [View Portfolio](https://raushan-raj-portfolio.netlify.app/)
 
 ---
 
