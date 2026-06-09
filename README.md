@@ -14,7 +14,7 @@
 - 🌱 Currently learning **System Design & Advanced Backend Concepts**
 - 📫 Reach me at **raushanrajsingh776@gmail.com**
 - 🔭 Portfolio: 🌐 [View Portfolio](https://raushan-raj-portfolio.netlify.app/)
-- 📝 Resume: 🔗 [View Resume](https://drive.google.com/file/d/1cOFkM6tn_BbJIznK3nn-Dq3zU7RQDPVU/view?usp=sharing)
+- 📝 Resume: 🔗 [View Resume](https://drive.google.com/file/d/1oG9jVxNBgGsJ8V509IypojExojBdN4Xb/view?usp=sharing)
 
 ---
 
